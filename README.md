@@ -562,6 +562,7 @@ Made with ❤️ for the on-chain perps community.
 - [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Sister list of prediction market platforms, terminals, bots, analytics, and AI agents (Polymarket, Kalshi, Limitless, etc.).
 - [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — Sister list of 295+ memecoin trading tools (Pump.fun, LetsBonk, Trojan, Axiom, GMGN, etc.). Many memecoin traders hedge directional positions with perps from this list — the two lists are highly complementary.
 - [**Awesome Crypto Tax**](https://github.com/buddies2705/awesome-crypto-tax) — Sister list of 150+ crypto tax tools. Hyperliquid and other perp PnL exports feed directly into Awaken, Koinly, CoinLedger, etc.
+- [**Awesome Blockchain & Crypto APIs**](https://github.com/buddies2705/awesome-blockchain-crypto-api) — Sister list of 315+ blockchain APIs and RPC providers. The data layer powering most of the perp DEX terminals, analytics tools, and bots in this list.
 
 ---
 
