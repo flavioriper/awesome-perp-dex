@@ -359,6 +359,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **HypeFlows** | Hyperliquid | Hyperliquid market-share vs CEXs in real time | [hypeflows.com](https://hypeflows.com/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour, top traders, push alerts | [hypertracker.xyz](https://hypertracker.xyz/) |
 | **Hyperscanner** | Hyperliquid + HyperEVM | Unified analytics + block explorer | [hyperscanner.app](https://www.hyperscanner.app/) |
+| **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism + Polymarket | DexScreener alternative — live token / pair / heatmap analytics with AI overviews. Powered by Bitquery. | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **a1 Research** | Industry research | "Perp DEX Wars" deep-dive reports | [a1research.io](https://a1research.io/) |
 | **Hyperliquid Guide** | Hyperliquid | Funding rate, OI, volume tools and guides | [hyperliquidguide.com](https://hyperliquidguide.com/) |
 
