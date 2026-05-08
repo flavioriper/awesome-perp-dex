@@ -14,12 +14,12 @@
 
 | # | Perp DEX | Chain | 24h Volume | Open Interest | Max Leverage | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | **Hyperliquid** | Hyperliquid L1 | $9.0B | $7.7B | 50x | [hyperliquid.xyz](https://app.hyperliquid.xyz/) |
-| 2 | **Aster** | BNB Chain | $2.1B | $2.0B | 1001x | [asterdex.com](https://www.asterdex.com/) |
+| 1 | **Hyperliquid** | Hyperliquid L1 | $9.0B | $7.7B | 50x | [hyperliquid.xyz](https://app.hyperliquid.xyz/join/COINMONKS) |
+| 2 | **Aster** | BNB Chain | $2.1B | $2.0B | 1001x | [asterdex.com](https://www.asterdex.com/en/referral/TKNnF8) |
 | 3 | **Lighter** | zkLighter / Ethereum | $1.9B | $762M | 50x | [app.lighter.xyz](https://app.lighter.xyz/) |
-| 4 | **edgeX** | Ethereum (StarkEx) | $1.6B | $958M | 100x | [edgex.exchange](https://pro.edgex.exchange/) |
+| 4 | **edgeX** | Ethereum (StarkEx) | $1.6B | $958M | 100x | [edgex.exchange](https://pro.edgex.exchange/referral/934416936) |
 | 5 | **GRVT** | ZKsync | $1.0B | $493M | 50x | [grvt.io](https://grvt.io/) |
-| 6 | **ApeX Protocol** | Multi-chain | $1.2B | $141M | — | [apex.exchange](https://www.apex.exchange/) |
+| 6 | **ApeX Protocol** | Multi-chain | $1.2B | $141M | — | [apex.exchange](https://omni.apex.exchange/referral?referralCode=FHGH1S3R!) |
 | 7 | **StandX Perps** | Multi-chain | $577M | $139M | 100x | [standx.com](https://standx.com/) |
 | 8 | **trade.xyz** | Hyperliquid L1 | $569M | $1.85B | 20x | [trade.xyz](https://app.trade.xyz/) |
 | 9 | **Variational (Omni)** | Arbitrum | $495M | $663M | 50x | [variational.io](https://omni.variational.io/) |
@@ -109,19 +109,19 @@ The market-leaders by volume, OI, and trader attention. These are the venues mos
 
 | Perp DEX | Chain | Architecture | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- | --- |
-| ⚡ **Hyperliquid** | Hyperliquid L1 | On-chain CLOB | App-chain orderbook, native vaults, HIP-3 builder DEXs, 50x leverage | 🟢 Live | [hyperliquid.xyz](https://app.hyperliquid.xyz/) |
-| ⚡ **Aster** | BNB Chain | CLOB | 1001x leverage, capital-efficient execution, AsterDEX token | 🟢 Live | [asterdex.com](https://www.asterdex.com/) |
+| ⚡ **Hyperliquid** | Hyperliquid L1 | On-chain CLOB | App-chain orderbook, native vaults, HIP-3 builder DEXs, 50x leverage | 🟢 Live | [hyperliquid.xyz](https://app.hyperliquid.xyz/join/COINMONKS) |
+| ⚡ **Aster** | BNB Chain | CLOB | 1001x leverage, capital-efficient execution, AsterDEX token | 🟢 Live | [asterdex.com](https://www.asterdex.com/en/referral/TKNnF8) |
 | ⚡ **Lighter** 🆕 | zkLighter (Ethereum) | zk-CLOB | Zero fees (0/0%), $675M airdrop in Dec 2025 | 🟢 Live | [lighter.xyz](https://app.lighter.xyz/) |
-| ⚡ **edgeX** 🆕 | Ethereum (StarkEx) | CLOB | Ultra-low latency, incubated by Amber Group | 🟢 Live | [edgex.exchange](https://pro.edgex.exchange/) |
-| **dYdX V4** | dYdX Chain (Cosmos) | CLOB | The OG perp DEX, fully decentralised v4, governance token | 🟢 Live | [dydx.trade](https://dydx.trade) |
-| **GMX** | Arbitrum, Avalanche | Oracle pool (GLP/GM) | Pool-based, 50x leverage, deep TVL, established | 🟢 Live | [gmx.io](https://app.gmx.io/) |
+| ⚡ **edgeX** 🆕 | Ethereum (StarkEx) | CLOB | Ultra-low latency, incubated by Amber Group | 🟢 Live | [edgex.exchange](https://pro.edgex.exchange/referral/934416936) |
+| **dYdX V4** | dYdX Chain (Cosmos) | CLOB | The OG perp DEX, fully decentralised v4, governance token | 🟢 Live | [dydx.trade](https://dydx.trade/?ref=CoinCodeCap) |
+| **GMX** | Arbitrum, Avalanche | Oracle pool (GLP/GM) | Pool-based, 50x leverage, deep TVL, established | 🟢 Live | [gmx.io](https://gmx.io/#/?ref=COINMOKS) |
 | **Jupiter Perps** | Solana | JLP pool / oracle | Solana's biggest perp by OI, no-slippage on large orders | 🟢 Live | [jup.ag/perps](https://jup.ag/perps) |
-| **Drift Protocol** | Solana | Hybrid CLOB + AMM | 101x leverage, deep Solana integration | 🟢 Live | [drift.trade](https://app.drift.trade/) |
+| **Drift Protocol** | Solana | Hybrid CLOB + AMM | 101x leverage, deep Solana integration | 🟢 Live | [drift.trade](https://app.drift.trade/ref/bogo) |
 | **Aevo** | Aevo L2 (OP Stack) | Off-chain match / on-chain settle | Perps + options + structured products in one margin acct | 🟢 Live | [aevo.xyz](https://www.aevo.xyz/) |
 | **Paradex** | StarkNet | Privacy CLOB | Zero fees, privacy-preserving, Paradigm-backed | 🟢 Live | [paradex.trade](https://app.paradex.trade/) |
 | **GRVT** 🆕 | ZKsync | Hybrid CLOB | Up to 15% APY on USDC, 50x leverage, KYC-optional | 🟢 Live | [grvt.io](https://grvt.io/) |
 | **Pacifica** 🆕 | Solana | CLOB | Ex-Binance / FTX / Jane Street team, AI tools | 🟢 Live | [pacifica.fi](https://app.pacifica.fi/) |
-| **ApeX Protocol** | Multi-chain | CLOB | Long-running multi-chain perp venue | 🟢 Live | [apex.exchange](https://www.apex.exchange/) |
+| **ApeX Protocol** | Multi-chain | CLOB | Long-running multi-chain perp venue | 🟢 Live | [apex.exchange](https://omni.apex.exchange/referral?referralCode=FHGH1S3R!) |
 
 ---
 
@@ -131,7 +131,7 @@ Hyperliquid is an app-specific L1 with a fully on-chain orderbook plus EVM compa
 
 | Project | Type | Notes | Status | Link |
 | --- | --- | --- | --- | --- |
-| **Hyperliquid Native App** | DEX | The default app at app.hyperliquid.xyz, 100+ perps + spot | 🟢 Live | [app.hyperliquid.xyz](https://app.hyperliquid.xyz/) |
+| **Hyperliquid Native App** | DEX | The default app at app.hyperliquid.xyz, 100+ perps + spot | 🟢 Live | [app.hyperliquid.xyz](https://app.hyperliquid.xyz/join/COINMONKS) |
 | **trade.xyz** | Builder DEX (HIP-3) | TradFi markets — equities, commodities, oil — as 24/7 perps | 🟢 Live | [trade.xyz](https://app.trade.xyz/) |
 | **Phantom Perps** | Front-end | Hyperliquid perps inside the Phantom wallet | 🟢 Live | [phantom.com](https://phantom.com/) |
 | **MetaMask Perps** | Front-end | Hyperliquid perps in MetaMask | 🟢 Live | [metamask.io](https://metamask.io/) |
@@ -155,17 +155,17 @@ Solana hosts the second-largest perp ecosystem after Hyperliquid, with 400ms slo
 | Perp DEX | Architecture | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- |
 | **Jupiter Perps** | JLP pool / oracle | Solana's biggest perp by OI, deep liquidity | 🟢 Live | [jup.ag/perps](https://jup.ag/perps) |
-| **Drift Protocol** | Hybrid CLOB + AMM | 101x leverage, perpetuals + spot + lending | 🟢 Live | [drift.trade](https://app.drift.trade/) |
+| **Drift Protocol** | Hybrid CLOB + AMM | 101x leverage, perpetuals + spot + lending | 🟢 Live | [drift.trade](https://app.drift.trade/ref/bogo) |
 | **Pacifica** 🆕 | CLOB | Ex-Binance / Jane Street team, AI tooling | 🟢 Live | [pacifica.fi](https://app.pacifica.fi/) |
 | **GMTrade** | Pool / oracle | Solana-native perps | 🟢 Live | [gmtrade.xyz](https://gmtrade.xyz/) |
 | **Decibel** | CLOB | Solana-native CLOB for perps | 🟢 Live | [decibel.trade](https://app.decibel.trade/) |
 | **FlashTrade** | Pool | 100x leverage, oracle-priced | 🟢 Live | [flash.trade](https://www.flash.trade/) |
 | **Raydium Perps** | Pool | Perp module from the Raydium DEX | 🟢 Live | [perps.raydium.io](https://perps.raydium.io/) |
-| **01 Exchange** | CLOB | Solana perp + options DEX | 🟢 Live | [01.xyz](https://01.xyz/) |
+| **01 Exchange** | CLOB | Solana perp + options DEX | 🟢 Live | [01.xyz](https://01.xyz/ref/019d20fd-360e-714b-a67a-4f2f91676313) |
 | **Mango Markets** | CLOB | OG Solana perp + spot + lending | 🟢 Live | [mango.markets](https://app.mango.markets/) |
 | **Zeta Markets** | CLOB | Solana derivatives platform | 🟢 Live | [zeta.markets](https://www.zeta.markets/) |
 | **Phoenix** | CLOB | Solana orderbook used by perp front-ends | 🟢 Live | [phoenix.trade](https://www.phoenix.trade/) |
-| **Axiom** | Pool | Solana memecoin + perp interface | 🟢 Live | [axiom.trade](https://axiom.trade/) |
+| **Axiom** | Pool | Solana memecoin + perp interface | 🟢 Live | [axiom.trade](https://axiom.trade/@ny2025) |
 | **Parcl** | Pool | Real-estate perps on Solana | 🟢 Live | [parcl.co](https://parcl.co/) |
 | **GooseFX** | Pool | Solana perps & spot aggregator | 🟢 Live | [goosefx.io](https://www.goosefx.io/) |
 | **HXRO Network** | CLOB | Solana derivatives infrastructure | 🟢 Live | [hxro.com](https://www.hxro.com/) |
@@ -178,7 +178,7 @@ Arbitrum was the original "perp DEX chain" — and despite Hyperliquid's rise, i
 
 | Perp DEX | Architecture | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- |
-| **GMX** | Oracle pool (GLP/GM) | The classic pool-based perp DEX | 🟢 Live | [gmx.io](https://app.gmx.io/) |
+| **GMX** | Oracle pool (GLP/GM) | The classic pool-based perp DEX | 🟢 Live | [gmx.io](https://gmx.io/#/?ref=COINMOKS) |
 | **Variational (Omni)** | RFQ / OTC | Pro-grade RFQ trading, 50x leverage | 🟢 Live | [variational.io](https://omni.variational.io/) |
 | **Ostium** 🆕 | Pool | RWA + crypto perps, 200x leverage, SPX/oil/forex | 🟢 Live | [ostium.app](https://app.ostium.com/) |
 | **Antarctic** | Pool | 100x leverage, Arbitrum-native | 🟢 Live | [antarctic.live](https://partner.antarctic.live/) |
@@ -203,7 +203,7 @@ Arbitrum was the original "perp DEX chain" — and despite Hyperliquid's rise, i
 | **Synthetix Perps (Base)** | Synth pool | Synthetix V3 perps on Base | 🟢 Live | [synthetix.io](https://synthetix.io/) |
 | **BasePerp** 🆕 | Pool | First Base-native perp DEX, 100x leverage | 🟢 Live | [baseperp.org](https://baseperp.org/) |
 | **Hilo Markets** | Pool | Base-native perps | 🟢 Live | [hilomarkets.com](https://hilomarkets.com/) |
-| **Limitless Exchange** | CLOB | Prediction-market style perps | 🟢 Live | [limitless.exchange](https://limitless.exchange/) |
+| **Limitless Exchange** | CLOB | Prediction-market style perps | 🟢 Live | [limitless.exchange](https://limitless.exchange/?r=T8W3GLZEVP) |
 
 ---
 
@@ -211,11 +211,11 @@ Arbitrum was the original "perp DEX chain" — and despite Hyperliquid's rise, i
 
 | Perp DEX | Architecture | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- |
-| **Aster** ⚡ | CLOB | 1001x leverage, top-3 perp DEX globally | 🟢 Live | [asterdex.com](https://www.asterdex.com/) |
-| **ApolloX** | CLOB | Long-running BSC perp venue | 🟢 Live | [apollox.finance](https://www.apollox.finance/) |
+| **Aster** ⚡ | CLOB | 1001x leverage, top-3 perp DEX globally | 🟢 Live | [asterdex.com](https://www.asterdex.com/en/referral/TKNnF8) |
+| **ApolloX** | CLOB | Long-running BSC perp venue | 🟢 Live | [apollox.com](https://www.apollox.com/en/futures/ref/10238720) |
 | **Level Finance** | Pool | LVL token, multi-asset pool | 🟢 Live | [level.finance](https://app.level.finance/) |
 | **PancakeSwap Perps** | Pool | Perpetuals from the PancakeSwap DEX | 🟢 Live | [pancakeswap.finance](https://perp.pancakeswap.finance/) |
-| **MYX Finance** | CLOB | 50x leverage, BNB-native | 🟢 Live | [myx.finance](https://app.myx.finance/) |
+| **MYX Finance** | CLOB | 50x leverage, BNB-native | 🟢 Live | [myx.finance](https://app.myx.finance/referrals?invitationCode=5M2V7QF) |
 
 ---
 
@@ -224,10 +224,10 @@ Arbitrum was the original "perp DEX chain" — and despite Hyperliquid's rise, i
 | Perp DEX | Chain | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- |
 | **Lighter** ⚡ 🆕 | zkLighter (Ethereum) | Zero fees, $675M Dec 2025 airdrop | 🟢 Live | [lighter.xyz](https://app.lighter.xyz/) |
-| **edgeX** ⚡ 🆕 | Ethereum (StarkEx) | Amber Group, 100x, ultra-low latency | 🟢 Live | [edgex.exchange](https://pro.edgex.exchange/) |
+| **edgeX** ⚡ 🆕 | Ethereum (StarkEx) | Amber Group, 100x, ultra-low latency | 🟢 Live | [edgex.exchange](https://pro.edgex.exchange/referral/934416936) |
 | **GRVT** 🆕 | ZKsync | Up to 15% APY USDC, 50x | 🟢 Live | [grvt.io](https://grvt.io/) |
 | **Paradex** | StarkNet | Privacy CLOB, Paradigm-backed | 🟢 Live | [paradex.trade](https://app.paradex.trade/) |
-| **Extended** | StarkNet | 100x leverage, StarkNet-native | 🟢 Live | [extended.exchange](https://app.extended.exchange/) |
+| **Extended** | StarkNet | 100x leverage, StarkNet-native | 🟢 Live | [extended.exchange](https://app.extended.exchange/join/BOGO) |
 | **Hibachi** | zkVM | 25x leverage with zk proofs | 🟢 Live | [hibachi.xyz](https://hibachi.xyz/) |
 | **SynFutures V3** | Multi-chain | Permissionless perp listing | 🟢 Live | [synfutures.com](https://trade.synfutures.com/) |
 | **Satori Perp** | zkSync | Low-fee zk perps | 🟢 Live | [satori.finance](https://trade.satori.finance/) |
@@ -321,7 +321,7 @@ These sit on top of multiple perp DEXs and route orders for best execution, unif
 | **Orderly Network** | 30+ chains | Liquidity layer powering Kodiak, Logx, others | 🟢 Live | [orderly.network](https://orderly.network) |
 | **Logx Trade** | Orderly-powered | Multi-chain perp aggregator | 🟢 Live | [logx.trade](https://logx.trade/) |
 | **Mux Protocol** | GMX / Gains / others | Aggregator pool for cross-venue perps | 🟢 Live | [mux.network](https://mux.network/) |
-| **Rabbitx** | Multi-DEX | Centralised UX over decentralised settlement | 🟢 Live | [rabbitx.com](https://rabbitx.com/) |
+| **Rabbitx** | Multi-DEX | Centralised UX over decentralised settlement | 🟢 Live | [rabbitx.io](https://app.rabbitx.io?ref=CBNV5RYNXV) |
 | **Tread.fi** | Multi-chain perps | Cross-venue perp aggregator | 🟢 Live | [tread.fi](https://app.tread.fi/) |
 
 ---
@@ -334,7 +334,7 @@ Pro-grade interfaces for serious traders — Bloomberg-style charts, advanced or
 | --- | --- | --- | --- | --- |
 | **Hyperdash** | Hyperliquid | Analytics + execution + copy trading + TWAP, acquired by PVP Trade | 🟢 Live | [hyperdash.com](https://hyperdash.com/) |
 | **Chainpro** | Hyperliquid, Solana, Base | Hedge fund-grade non-custodial terminal | 🟢 Live | [chainpro.xyz](https://chainpro.xyz/) |
-| **Bullpen** | Solana + Hyperliquid | Co-founded by Ansem; web, mobile, Telegram | 🟢 Live | [bullpen.fi](https://bullpen.fi/) |
+| **Bullpen** | Solana + Hyperliquid | Co-founded by Ansem; web, mobile, Telegram | 🟢 Live | [bullpen.fi](https://bullpen.fi/@agile-yak) |
 | **Altitude** | HyperEVM | Built for HyperEVM token + perp trading | 🟢 Live | [altitude.xyz](https://altitude.xyz/) |
 | **Brahma** | Hyperliquid + EVMs | Strategy orchestration layer for automated perp trading | 🟢 Live | [brahma.fi](https://brahma.fi/) |
 | **Defined.fi** | Multi-chain | Multi-chain terminal & token screener with Hyperliquid support | 🟢 Live | [defined.fi](https://defined.fi/) |
@@ -374,7 +374,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **Hyperbot** | Hyperliquid + Aster | 600K+ tracked addresses, AI tags, ms-level Telegram alerts | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour & top trader monitoring | 🟢 Live | [hypertracker.xyz](https://hypertracker.xyz/) |
 | **PerpFinder Whale Tracker** | Hyperliquid | Top 20 accounts, 60s refresh | 🟢 Live | [perpfinder.com/tools/whales](https://perpfinder.com/tools/whales) |
-| **Copin** | Hyperliquid + 20 perp DEXs | 600K+ on-chain traders, copy or alert | 🟢 Live | [copin.io](https://copin.io/) |
+| **Copin** | Hyperliquid + 20 perp DEXs | 600K+ on-chain traders, copy or alert | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
 | **HyperX** | Hyperliquid | Native Hyperliquid trader discovery + copy | 🟢 Live | [hyperx.app](https://hyperx.app/) |
 | **whale-tracker-mcp** | Multi-chain | MCP server for whale tx tracking via AI agents | 🟢 Live | [GitHub](https://github.com/kukapay/whale-tracker-mcp) |
 | **hyperliquid-whalealert-mcp** | Hyperliquid | Real-time whale alerts via MCP | 🟢 Live | [GitHub](https://github.com/kukapay/hyperliquid-whalealert-mcp) |
@@ -386,10 +386,10 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | Platform | Coverage | Notable Features | Status | Link |
 | --- | --- | --- | --- | --- |
 | **Hyperliquid Native Vaults** | Hyperliquid | On-chain copy via vault deposits, 10% profit share | 🟢 Live | [app.hyperliquid.xyz/vaults](https://app.hyperliquid.xyz/vaults) |
-| **Copin** | 20+ perp DEXs | 600K+ traders, full PnL transparency, one-click | 🟢 Live | [copin.io](https://copin.io/) |
+| **Copin** | 20+ perp DEXs | 600K+ traders, full PnL transparency, one-click | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
 | **HyperX** | Hyperliquid | Native trader discovery + position mirroring | 🟢 Live | [hyperx.app](https://hyperx.app/) |
 | **Hyperdash** | Hyperliquid | Copy trading + analytics + TWAP | 🟢 Live | [hyperdash.com](https://hyperdash.com/) |
-| **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/) |
+| **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
 
@@ -405,8 +405,8 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **Hyperliquid Python SDK** | SDK | Official Python SDK for custom bots | 🟢 Live | [hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) |
 | **freqtrade-mcp** | MCP bot bridge | Connect Freqtrade trading bot to LLMs via MCP | 🟢 Live | [GitHub](https://github.com/kukapay/freqtrade-mcp) |
 | **uniswap-trader-mcp** | MCP trader | Automated DEX trading for AI agents | 🟢 Live | [GitHub](https://github.com/kukapay/uniswap-trader-mcp) |
-| **3Commas** | CEX + DEX | Bots, grid, DCA, signals | 🟢 Live | [3commas.io](https://3commas.io/) |
-| **Cryptohopper** | CEX + DEX | Cloud trading bots | 🟢 Live | [cryptohopper.com](https://www.cryptohopper.com/) |
+| **3Commas** | CEX + DEX | Bots, grid, DCA, signals | 🟢 Live | [3commas.io](https://app.3commas.io/auth/registration?utm_source=referral&utm_medium=cabinet&c=coinmonks) |
+| **Cryptohopper** | CEX + DEX | Cloud trading bots | 🟢 Live | [cryptohopper.com](https://www.cryptohopper.com/?atid=15596) |
 | **xlev-v Hyperliquid Bot** | Open-source | GitHub-hosted Hyperliquid bot | 🟢 Live | [GitHub](https://github.com/xlev-v/Hyperliquid-Trading-Bot) |
 
 ---
@@ -433,7 +433,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **DeBank** | EVM + Hyperliquid | Cross-chain wallet & DeFi tracking | 🟢 Live | [debank.com](https://debank.com/) |
 | **Zapper** | EVM | DeFi portfolio + perp positions | 🟢 Live | [zapper.xyz](https://zapper.xyz/) |
 | **Octav API** | 20+ chains | Portfolio MCP — DeFi positions + tx history | 🟢 Live | [GitHub](https://github.com/Octav-Labs/octav-api-mcp) |
-| **Coin Stats** | Multi-chain | Mobile portfolio + perp position tracking | 🟢 Live | [coinstats.app](https://coinstats.app/) |
+| **Coin Stats** | Multi-chain | Mobile portfolio + perp position tracking | 🟢 Live | [coinstats.app](https://coinstats.app/r/coincodecap/) |
 
 ---
 
