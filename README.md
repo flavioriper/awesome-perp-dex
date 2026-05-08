@@ -561,6 +561,7 @@ Made with ❤️ for the on-chain perps community.
 - [**Awesome Crypto MCPs**](https://github.com/buddies2705/awesome-crypto-mcp) — MCP servers for AI agents trading crypto, including Hyperliquid, Bitquery, funding-rate, and orderbook MCPs that pair perfectly with this list.
 - [**Awesome Prediction Markets**](https://github.com/buddies2705/awesome-prediction-market) — Sister list of prediction market platforms, terminals, bots, analytics, and AI agents (Polymarket, Kalshi, Limitless, etc.).
 - [**Awesome Memecoin Trading**](https://github.com/buddies2705/awesome-memecoin-trading) — Sister list of 295+ memecoin trading tools (Pump.fun, LetsBonk, Trojan, Axiom, GMGN, etc.). Many memecoin traders hedge directional positions with perps from this list — the two lists are highly complementary.
+- [**Awesome Crypto Tax**](https://github.com/buddies2705/awesome-crypto-tax) — Sister list of 150+ crypto tax tools. Hyperliquid and other perp PnL exports feed directly into Awaken, Koinly, CoinLedger, etc.
 
 ---
 
